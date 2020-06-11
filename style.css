@@ -1,0 +1,15 @@
+body{
+    background-image: url('Images/test.jpeg');
+    color: burlywood;
+    text-align: center;
+}
+h1{
+    border-style: double;
+    border-width: 3px;
+    border-color: burlywood;
+    background-color: #0E1525;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20%;
+    padding: 5% 5%;
+}
