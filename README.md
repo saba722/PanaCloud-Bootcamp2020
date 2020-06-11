@@ -37,7 +37,7 @@
 
 - Check the action tab to GitHub website and see if the action executed
 
-- Open [website in browser]()
+- Open [website in browser](http://panacloud_bootcamp2020_assignment_1.surge.sh/)
 
 
 >> *Cpyright @ Saba722*
