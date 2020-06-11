@@ -1,7 +1,5 @@
 # Bootcamp 2020 Class 1: Setup Website Development Environment
 
-[![N|Solid](Images/download.png)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ### Steps:
@@ -18,9 +16,11 @@
 - Install [Node.js](https://nodejs.org/en/download/)
 
 - Install Surge
+
      ```sh npm install --global surge ```
 
 - Generate Surge token by the following command
+
 ```sh surge token```
 
 - Save the surge token in the repo's GitHubs secrets
@@ -33,12 +33,12 @@
 
 - Learn and create surge deployment action file in root of your repo in .github/workflow directory like I have done
 
->> Make small change in your index.html, commit it and push it again to [Github](https://github.com/)
+- Make small change in your index.html, commit it and push it again to [Github](https://github.com/)
 
 - Check the action tab to GitHub website and see if the action executed
 
 - Open [website in browser]()
 
 
-*Cpyright @ Saba722*
+>> *Cpyright @ Saba722*
 
