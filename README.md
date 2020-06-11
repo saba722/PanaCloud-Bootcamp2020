@@ -21,7 +21,7 @@
 
 - Generate Surge token by the following command
 
-```sh surge token```
+    ```sh surge token```
 
 - Save the surge token in the repo's GitHubs secrets
 
